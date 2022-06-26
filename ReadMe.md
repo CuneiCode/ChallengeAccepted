@@ -27,6 +27,7 @@ A challenge will be post each week on Challenge Accepted Channel each week will 
 
 ### Submit
 
+- Fill orr add the ReadMe.md file.
 - Create a folder with name "Week 00" folder example Week 01.
   - Please replace 00 with the week number.
 - Create a file name after the challenge and language extension.
