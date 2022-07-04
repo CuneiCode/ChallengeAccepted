@@ -35,7 +35,7 @@ Each week a challenge will be posted on “Challenge Accepted” channel and eac
 - Push the solution to your Challenge Accepted Repository.
 - Post the link in Challenge Accepted channel.
 
-## First Week CuneiCode Foundation Challenges : 
+## Second Week CuneiCode Foundation Challenges : 
 
 ### sacred rules : 
 
@@ -52,10 +52,10 @@ Each week a challenge will be posted on “Challenge Accepted” channel and eac
 
 ### The Challenges :
 
-### all CuneiCode member's <img src="https://res.cloudinary.com/deiwqu3r2/image/upload/v1656243612/2647_Grandmaster_kn8mle.png" alt="GrandMaster" width="50" align="center"> : 
- - [power-of-thor](https://www.codingame.com/training/easy/power-of-thor-episode-1)
+## all Cuneicode member's <img src="https://res.cloudinary.com/deiwqu3r2/image/upload/v1656243612/2647_Grandmaster_kn8mle.png" alt="GrandMaster" width="50" align="center"> : 
+ - [HORSE-RACING DUALS](https://www.codingame.com/training/easy/horse-racing-duals)
   
- - [mars-lander-ep1](https://www.codingame.com/training/easy/mars-lander-episode-1)
+ - [THE DESCENT](https://www.codingame.com/training/easy/the-descent)
 
 
 
@@ -66,10 +66,10 @@ Each week a challenge will be posted on “Challenge Accepted” channel and eac
   
 - [Can't Unsee](https://cantunsee.space/)
 
-### Programmers <img src="https://res.cloudinary.com/deiwqu3r2/image/upload/v1656243540/2506_Challenger_1_xxlf8e.png" alt="Challenger" width="50" align="center"> : 
+## Programmers <img src="https://res.cloudinary.com/deiwqu3r2/image/upload/v1656243540/2506_Challenger_1_xxlf8e.png" alt="Challenger" width="50" align="center"> : 
 
   
- - [shadown-of-knight-ep1](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1) 
+ - [Scrabble](https://www.codingame.com/training/medium/scrabble) 
  
 
 
